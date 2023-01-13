@@ -56,7 +56,7 @@ Existing Flat Mate:
 There will be sign out button in menu bar.You can sign out from the application and main login page will be redirected.
 
 ## Domain Model:
-<https://github.com/neu-mis-info6150-fall-2022/final-project-nucleaus/blob/main/model-diagram.pdf>
+![domain model](https://user-images.githubusercontent.com/113465932/212222775-8b2acd1d-f334-4f63-84b8-5b9079a84855.png)
 
 ## Project running instruction
 
