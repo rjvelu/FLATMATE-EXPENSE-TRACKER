@@ -1,0 +1,60 @@
+{
+    "name": "flat_mate_expene_tracker",
+    "version": "1.0.0",
+    "description": "flat_,ate_expense_tracker",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js",
+        "swagger-autogen": "node swagger.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/neu-mis-info6150-fall-2022/assignment-8-gokul-j99.git"
+    },
+    "type": "module",
+    "author": "Gokul Jayavel",
+    "license": "ISC",
+    "dependencies": {
+        "@babel/cli": "^7.2.3",
+        "@babel/core": "^7.1.6",
+        "@babel/node": "^7.0.0",
+        "@babel/plugin-proposal-optional-chaining": "^7.8.3",
+        "@babel/preset-env": "^7.1.6",
+        "@babel/register": "^7.0.0",
+        "bcrypt": "^5.1.0",
+        "bcryptjs": "^2.4.3",
+        "concurrently": "^5.1.0",
+        "config": "^3.3.0",
+        "connect-flash": "^0.1.1",
+        "cookie-parser": "^1.4.4",
+        "cors": "^2.8.5",
+        "debug": "^4.3.4",
+        "dotenv": "^10.0.0",
+        "express": "^4.18.2",
+        "express-list-endpoints": "^4.0.1",
+        "faker": "^4.1.0",
+        "joi": "^17.5.0",
+        "joi-password-complexity": "^5.1.0",
+        "jsonwebtoken": "^8.5.1",
+        "moment": "^2.29.4",
+        "moment-timezone": "^0.5.38",
+        "mongoose": "^6.7.1",
+        "multer": "^1.4.2",
+        "node-cron": "^3.0.2",
+        "nodemailer": "^6.2.1",
+        "nodemon": "^2.0.20",
+        "passport": "^0.4.1",
+        "passport-facebook": "^3.0.0",
+        "passport-google-oauth2": "^0.2.0",
+        "passport-jwt": "^4.0.0",
+        "passport-local": "^1.0.0",
+        "smtp-server": "^3.5.0",
+        "swagger-autogen": "^2.22.0",
+        "swagger-ui-express": "^4.1.4"
+    },
+    "bugs": {
+        "url": "https://github.com/neu-mis-info6150-fall-2022/assignment-8-gokul-j99/issues"
+    },
+    "homepage": "https://github.com/neu-mis-info6150-fall-2022/assignment-8-gokul-j99#readme"
+}

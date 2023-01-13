@@ -1,0 +1,42 @@
+.resettxt{
+    color: #253053;
+    margin-top: 20px;
+    }
+    
+    
+    .resetbtn{
+    background-color: #253053;
+    padding: 5px 20px;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    }
+    
+    .container p {
+        font-size: 20px;
+    }
+    
+    .resetlottie{
+    
+        height: 600px;
+    }
+    
+    .container_reset{
+        height: 100vh;
+        display: flex;
+        align-items:center;
+        justify-content: center;
+        background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+    
+    }
+    
+    .container_reset input{
+        background-color: transparent;
+        border: none;
+        border-bottom: 1px solid rgb(106, 105, 105, 0.5);
+        color: #253053;
+    }
+    
+    label{
+        color: #253053;
+    }
