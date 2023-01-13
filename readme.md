@@ -1,12 +1,5 @@
 # Flat Mate Expense Tracker
 
-## Team Member
-
- 1. Gokul Jayavel <br>
- 2. Hariharan Raj <br>
- 3. Rajkumar Kumaravelu <br>
- 4. Mohan Raj <br>
-
 ## Presentation video:
 <https://drive.google.com/file/d/1JyKvW0fzcTNjPTcvWrQGLQib3NGzV_Mt/view?usp=share_link>
  ## Idea Description
